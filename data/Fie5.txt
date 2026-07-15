@@ -1,0 +1,9 @@
+Common Uses
+Java's versatility makes it a popular choice across many industries: 
+Amazon Web Services
+Amazon Web Services
+ +1
+Android Development: The Android operating system is based on Java, and many mobile apps are built with it.
+Enterprise Software: Java Enterprise Edition (Java EE) provides a robust platform for developing large-scale, secure, and reliable enterprise systems for industries like finance and healthcare.
+Web Applications: Used for server-side development with technologies like Servlets, JSPs, and frameworks such as [Spring](https://www.geeksfor Geeks.org/advance-java/advanced-java/) and Hibernate.
+Big Data and Cloud Computing: Its scalability makes it suitable for cloud-based applications and data processing engines like Hadoop and Spark. 
